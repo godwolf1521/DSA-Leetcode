@@ -19,6 +19,6 @@ class Solution {
         }
         System.out.println();
 
-        return j + 1; 
+        return j+1 ; 
     }
 }
